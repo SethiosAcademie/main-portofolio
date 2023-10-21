@@ -1,10 +1,3 @@
-/*
-
-TemplateMo 578 First Portfolio
-
-https://templatemo.com/tm-578-first-portfolio
-
-*/
 
 
 /*---------------------------------------
@@ -12,15 +5,15 @@ https://templatemo.com/tm-578-first-portfolio
 -----------------------------------------*/
 :root {
     --white-color:                  #ffffff;
-    --primary-color:                #535da1;
-    --secondary-color:              #14B789;
+    --primary-color:                #050961;
+    --secondary-color:              #f4791f;
     --section-bg-color:             #f9f9f9;
     --dark-color:                   #000000;
     --p-color:                      #717275;
     --border-color:                 #e9eaeb;
-    --featured-border-color:        #727aab;
+    --featured-border-color:        #112393;
   
-    --body-font-family:             'DM Sans', sans-serif;
+    --body-font-family:             'Montserrat','DM Sans', sans-serif;
   
     --h1-font-size:                 62px;
     --h2-font-size:                 48px;
